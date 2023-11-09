@@ -1,0 +1,6 @@
+.vscode
+*.dot
+obj/
+*.obj
+list
+*.png
